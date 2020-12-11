@@ -1,3 +1,5 @@
+# Microposting Ruby on Rails Application
+
 Sample application developed by following
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
